@@ -84,8 +84,8 @@ body {
     margin: 0;
     padding: 0;
     list-style: none;
-    -webkit-transition: margin-left 250ms;
-    transition: margin-left 250ms;
+    -webkit-transition: margin-left 0.3s;
+    transition: margin-left 0.3s;
     font-size: 0; }
   .carousel__item {
     display: inline-block; }
